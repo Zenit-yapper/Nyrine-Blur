@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "naturalmotionblur",
   "version": "${version}",
-  "name": "Natural Motion Blur",
-  "description": "Natural Motion Blur Mod.",
+  "name": "Nyrine Blur",
+  "description": "Motion Blur Mod.",
   "authors": [
     "ItsPasi"
   ],
