@@ -2,15 +2,12 @@
   "schemaVersion": 1,
   "id": "naturalmotionblur",
   "version": "${version}",
-  "name": "Natural Motion Blur",
-  "description": "Natural Motion Blur Mod.",
+  "name": "Nyrine Blur",
+  "description": "A motionblur mod.",
   "authors": [
-    "ItsPasi"
+    "Zenit"
   ],
   "contributors": [
-    "IMS212", 
-    "Romain H",
-    "What42Pizza"
   ],
   "license": "LGPL-3.0",
   "environment": "client",
